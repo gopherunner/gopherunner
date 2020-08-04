@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <a href="https://github.com/gopherunner"><img src="https://img.shields.io/github/followers/gopherunner.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/germananders/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
