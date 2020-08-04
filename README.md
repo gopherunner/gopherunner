@@ -1,4 +1,4 @@
-<h2> Hello, I'm German Anders <img src="https://spng.pinpng.com/pngs/s/465-4651995_addthis-sharing-buttons-gopher-png-transparent-png.png" width="40"></h2> 
+<h2> Hello, I'm German Anders <img src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/c05e4943ea8a8251f61091ba2fcdc77737496051.png" width="40"></h2> 
 
 <p>
   <em> Software Engineer</br>
