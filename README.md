@@ -2,7 +2,7 @@
 
 <p>
   <em> Software Engineer</br>
-  Storage Technical Lead at <a href="https://www.despegar.com/">Despegar.com</a>
+  <b>Storage Technical Lead</b> at <a href="https://www.despegar.com/">Despegar.com</a>
   </em>
 </p>
 
