@@ -1,4 +1,4 @@
-### Hi there, I'm German Anders 👋
+### Hi there, I'm German Anders 
 
 <!--
 **gopherunner/gopherunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/germananders/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
