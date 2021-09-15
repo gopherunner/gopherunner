@@ -12,7 +12,7 @@
 
 ```javascript
 const germanAnders = {
-  code: ["Golang", "JavaScript", "Python", "HTML", "CSS"],
+  code: ["Golang", "Scala", "JavaScript", "Python", "HTML", "CSS"],
   tools: ["React", "Redux", "Node"],
   preprocessor: ["SASS"],
   blogs: [  
@@ -20,7 +20,7 @@ const germanAnders = {
   ],
   challenge: "I am starting to move from Storage legacy old fashion tech to a Software development life",
   working: "I am currently working on a UI project in order to render datacenter services and infrastructure",
-  learning: "I am studying the Full-Stack Developer career in Acamica",
+  learning: "Learning Scala [WIP]",
   hobbies: "I love to play boardgames, being with family, listen to music and watch movies"
 }
 ```
