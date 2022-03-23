@@ -1,8 +1,8 @@
 <h2> Hello, I'm German Anders <img src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/c05e4943ea8a8251f61091ba2fcdc77737496051.png" width="40"></h2> 
 
 <p>
-  <em> Software Engineer</br>
-  <b>Storage Technical Lead</b> at <a href="https://www.despegar.com/">Despegar.com</a>
+  <em>Software Engineer</br>
+  <b>Staff Software Engineer</b> at <a href="https://www.despegar.com/">Despegar.com</a>
   </em>
 </p>
 
@@ -19,8 +19,8 @@ const germanAnders = {
      medium: "https://medium.com/@gopherunner"
   ],
   challenge: "I am starting to move from Storage legacy old fashion tech to a Software development life",
-  working: "I am currently working on a UI project in order to render datacenter services and infrastructure",
-  learning: "Learning Scala [WIP]",
+  working: "I am currently working on a Cloud project in order to migrate it from on-premise datacenter to AWS infrastructure",
+  learning: "Updating on Scala [WIP]",
   hobbies: "I love to play boardgames, being with family, listen to music and watch movies"
 }
 ```
