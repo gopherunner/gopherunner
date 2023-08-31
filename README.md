@@ -18,10 +18,11 @@ const germanAnders = {
   blogs: [  
      medium: "https://medium.com/@gopherunner"
   ],
-  challenge: "I am starting to move from Storage legacy old fashion tech to a Software development life",
-  working: "I am currently working on a Cloud project in order to migrate it from on-premise datacenter to AWS infrastructure",
-  learning: "Updating on Scala [WIP]",
-  hobbies: "I love to play boardgames, being with family, listen to music and watch movies"
+  challenge: "Transition from Scala to Go by designing, building, and optimizing concurrent microservices, while actively engaging with the Go community for feedback and continuous learning.",
+  working: "Currently working on the Cloud team. With focus on the Traffic service.",
+  learning: "Updating on Go [WIP]",
+  hobbies: "I love to play boardgames, being with family, listen to music and watch movies",
+  boardgames: "Scythe, Terraforming Mars, Wingspan, On Mars"
 }
 ```
 
